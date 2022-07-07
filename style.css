@@ -18,12 +18,38 @@
 
 .nav {
     width: 100%;
-    display: flex;
-align-items: center;
+    /* display: flex; */
+
 }
 
 .navbar {
+    /* border: solid 3px orange; */
     max-width: 100%;
+    
+    padding-left:3vw;
+}
+
+.nav-right {
+    /* border: solid 5px purple; */
+    display: flex;
+    /* align-items:center; */
+    /* justify-content: space-between; */
+    margin-left: auto;
+    overflow: hidden;
+    float: right;
+}
+
+/* position of scrolling header with my name etc */
+h1 {
+    /* border: solid 5px pink;
+    width: 100vw;
+    padding-left:6vw; */
+}
+
+.container {
+    align-items: center;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 .paragraph-font-size {
@@ -57,6 +83,10 @@ font-size: 18px;
 }
 
 
+/* makes navbar container wider - not just in middle of screen */
+/* .container {
+    padding:1vw;
+} */
 
 .change-font-size {
  font-size: 10px;
