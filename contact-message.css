@@ -27,23 +27,32 @@ header {
  
 }
 
-#navbar-collapse {
- background-color: black;
- color: green;
- border-color: pink;
+nav.navbar.navbar-fixed-top.navbar-default {
+ color: orange;
 }
 
-.link {
+
+/* #navbar-collapse {
+ background-color: orange;
+ color: green;
+ border-color: pink;
+} */
+
+/* .link {
  color: white;
 }
 
 .link:hover {
  color: white;
+} */
+
+#id {
+ color: orange;
 }
 
-
-
-
+.nav-links {
+ color: orange;
+}
 
 /* .collapsed {
  background-color: black;
@@ -51,14 +60,14 @@ header {
 
 
 
-.text {
+/* .text {
  color: green;
-}
+} */
 
-.box {
+/* .box {
  line-height: -100px;
  padding: -50px;
-}
+} */
 
 .input-box {
  border-color: orange;
@@ -76,13 +85,14 @@ width: 400px;
 
 
 .button {
- height:40px;
- width: 80px;
- font-size:larger;
+ height:60px;
+ width: 100px;
+ font-size:large;
+ font-family: Tahoma, sans-serif;
  font-weight: 10px;
  border-color: orange;
- border-radius: 2px;
- border-width: 5px;
+ border-radius: 1px;
+ border-width: 4px;
 }
 
 h2 {
@@ -91,16 +101,34 @@ h2 {
 } 
 
 h3 {
- font-size: 1.5em;
+ font-size: 2em;
 }
 
+.h4 {
+ font-size: 18px;
+}
+
+
+.input-box {
+ font-size: 13px
+}
+
+.message-box {
+font-size: 14px;
+/* font-weight:lighter; */
+}
 
 .contact-height {
  height: 100px;
 } */
 
 h4 {
-font-size: 15px;
+font-size: 30px;
+}
+
+h5 {
+ 15px
+
 }
 
 
