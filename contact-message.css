@@ -31,6 +31,9 @@ nav.navbar.navbar-fixed-top.navbar-default {
  color: orange;
 }
 
+body{
+ background: fef9ef;
+}
 
 /* #navbar-collapse {
  background-color: orange;
