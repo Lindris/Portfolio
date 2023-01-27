@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Capriola&family=Comfortaa:wght@300;400&family=Righteous&display=swap');
 
-/* .h2-center {
-    border: solid 3px purple;
- display: flex;
- align-items: center;
-} */
+@import url(https://fonts.googleapis.com/css?family=Trebuchet:900|Trebuchet:300,400,700);@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+*{
+  /* box top margin, page font*/
+  margin-top: 0px;
+  /* padding alters width of vertical line */
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet", sans-serif;
+}
 
 /* colour of  'Get to know me' header*/
 .h2{
