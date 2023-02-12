@@ -53,10 +53,12 @@ justify-content: left;
  ;
 }
 
-.change-color-untied {
- color: #118AB2
+.change-color-about {
+ color: #118AB2;
+}
 
- ;
+.link:hover {
+color: black;
 }
 
 /* sub heading font size */
@@ -109,6 +111,10 @@ font-size: 18px;
    margin-top: 20px;  
    }
    
+   h3 {
+    display: flex;
+    justify-content: center;
+   }
    
    .icons {
     display: flex;
