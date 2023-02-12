@@ -4,6 +4,11 @@
  align-items: center;
 }
 
+.h3-center {
+  display: flex;
+  align-items: center;
+ }
+ 
 .change-color1 {
  color: #2596BE;
 }
